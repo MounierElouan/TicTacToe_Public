@@ -3,4 +3,4 @@
 Entrainez-le contre lui même, les données sont stockées dans _fichiers.DonneesRobot<br>
 Modifiez la vitesse (et la qualité) d'apprentissage dans src.TicTacToe_V2.Robot<br>
 Il suffit d'augmenter ou de baisser les valeurs des constantes (entre 0 et 1).<br>
-Plus la valeur est grande, plus le robot va avoir un aprentissage rapide mais de qualité inferieur, et inversement.
+Plus la valeur est grande, plus le robot va avoir un aprentissage rapide mais de qualité inferieure, et inversement.
