@@ -1,4 +1,4 @@
-<h1 style="color:red;">Tic Tac Toe</h1>
+<h1>Tic Tac Toe</h1>
 Un robot qui apprend tout seul à jouer à tic tac toe! Lancez le programme dans src.TicTacToe_V2.TicTacToeV2App<br>
 Entrainez-le contre lui même, les données sont stockées dans _fichiers.DonneesRobot<br>
 Modifiez la vitesse d'apprentissage (et aussi la qualité) dans src.TicTacToe_V2.Robot<br>
