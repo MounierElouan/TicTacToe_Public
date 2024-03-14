@@ -8,7 +8,7 @@ public class Robot {
     public static final double POURCENTAGE_EVOLUTION_PERDANT = 0.01; // 0.0 = 0%, 1 = 100%
     public static final double POURCENTAGE_EVOLUTION_GAGNANT = 0.05; // 0.0 = 0%, 1 = 100%
     private static final char FILE_SEPARATOR = File.separatorChar;
-    private static final String PATH_DEFAUT = System.getProperty("user.dir") + FILE_SEPARATOR + "_fichiers" + FILE_SEPARATOR;
+    private static final String PATH_DEFAUT = System.getProperty("user.dir") + FILE_SEPARATOR + "TicTacToc_V2" + FILE_SEPARATOR + "_fichiers" + FILE_SEPARATOR;
     private static final String LINE_SEPARATOR = System.getProperty("line.separator");
     ArrayList<ArrayList<Integer>> position = new ArrayList<ArrayList<Integer>>();
     ArrayList<ArrayList<Double>> chance = new ArrayList<ArrayList<Double>>();
